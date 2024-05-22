@@ -39,6 +39,10 @@ sites:
   #   url: https://hub-staging.dandiarchive.org
   #   assignees:
   #     - asmacdo
+  - name: BICAN Dandihub
+    url: https://hub.bican-kb.com
+    assignees:
+      - asmacdo
   - name: Neurosift
     url: https://neurosift.app/
     assignees:
